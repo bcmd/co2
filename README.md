@@ -1,5 +1,5 @@
-# BrainSignals CO2
-This repository contains model definitions and input data used in the paper *Multimodal monitoring and modelling to investigate the influence of carbon dioxide on cerebral metabolism and oxygen consumption*.
+# BrainSignals CO<sub>2</sub>
+This repository contains model definitions and input data used in the paper **Multimodal monitoring and modelling to investigate the influence of carbon dioxide on cerebral metabolism and oxygen consumption**.
 
 ## Model
 The model file `BS_DH.modeldef` contains the model definition in [BCMD][bcmd] format.
